@@ -1,5 +1,5 @@
 <<<<<<< .merge_file_wy13Mx
-# 🚀 Meu Primeiro Repositório
+# 🚀 Meu Primeiro Repositório 2
  
 Olá, mundo! 👋
  
@@ -17,7 +17,7 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - JavaScript
 - Git e GitHub
 =======
-# 🚀 Meu Primeiro Repositório
+# 🚀 Meu Primeiro Repositório 2 
  
 Olá, mundo! 👋
  
